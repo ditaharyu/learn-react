@@ -1,6 +1,8 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Learning by doing React.js from youtube : https://www.youtube.com/watch?v=GVjIflROwJ4
+Link to Example Figma : https://www.figma.com/file/oSk3FEZ7qJOTtRjKUJgYDW/Restaurant-Landing-Page-Project-For-Youtube?type=design&node-id=0-1&mode=design
 
 ## Available Scripts
 
