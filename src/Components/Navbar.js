@@ -62,11 +62,11 @@ const Navbar = () => {
           onClick={() => setOpenMenu(false)}
           onKeyDown={() => setOpenMenu(false)}>
           <List>
-            { menuOptions.map((item) => (
+            { menuOptions.map((item, i) => (
               <ListItem key={item.text} disablePadding>
                 <ListItemButton>
                   <ListItemIcon>{item.icon}</ListItemIcon>
-                  <ListItemText primary={item.texr} />
+                  <ListItemText primary={item.text} />
                 </ListItemButton>              
               </ListItem>
             ) )}
