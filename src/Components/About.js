@@ -15,8 +15,8 @@ const About = () => {
       <div className="about-section-text-container">
         <p className="primary-subheading">About</p>
         <p className="primary-heading">Food Is An Important Part Of A Balanced Diet</p>
-        <p className="primary-text">Lorem ipsum</p>
-        <p className="primary-text">Lorem ipsum</p>
+        <p className="primary-text">Lorem ipsum dolor sit amet consectetur. Non tincidunt magna non et elit. Dolor  turpis molestie dui magnis facilisis at fringilla quam.</p>
+        <p className="primary-text">Non tincidunt magna non et elit. Dolor turpis molestie dui magnis facilisis at fringilla quam.</p>
         <div className="about-buttons-container">
           <button className="secondary-button">Learn More</button>
           <button className="watch-video-button"><BsFillPlayCircleFill /> Watch Video</button>
