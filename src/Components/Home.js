@@ -7,6 +7,10 @@ import { FiArrowRight } from "react-icons/fi"
 const Home = () => {
   return (
     <div className='home-container'>
+      <div>
+        <span>Calculator</span>
+        <input type="text" />
+      </div>
       {/* <Navbar /> */}
       <div className="home-banner-container">
         <div className="home-bannerImage-container">
@@ -17,7 +21,7 @@ const Home = () => {
             Your Favourite Food Delivered Hot & Fresh
           </h1>
           <p className="primary-text">
-            Healthy switcher chefs do all the prep work, like 
+            Healthy switcher chefs do all the prep work, like
             peeding, chopping & marinating, so you can cook
             a fresh food.
           </p>
